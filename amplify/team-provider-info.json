@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-trustid-dev-37a35-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381491837947:role/amplify-trustid-dev-37a35-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381491837947:role/amplify-trustid-dev-37a35-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-trustid-dev-37a35-deployment",
+      "UnauthRoleName": "amplify-trustid-dev-37a35-unauthRole",
+      "StackName": "amplify-trustid-dev-37a35",
+      "StackId": "arn:aws:cloudformation:us-east-1:381491837947:stack/amplify-trustid-dev-37a35/661b8c60-6e82-11ef-bcd2-0afffe1d5823",
+      "AmplifyAppId": "d9xgp2dnqvp07"
+    },
+    "categories": {
+      "auth": {
+        "trustid7cf54eaa": {}
+      }
+    }
+  }
+}
